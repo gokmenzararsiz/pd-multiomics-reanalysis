@@ -9,8 +9,9 @@
 This repository contains scripts for the reanalysis of publicly available RNA-seq (GEO: GSE169755) and proteomics (PRIDE: PXD024748) datasets from human substantia nigra dopaminergic neurons in Parkinson’s disease.
 
 The aim is to identify shared molecular signatures through differential expression and cross-omics integration.
-  <img width="1920" height="1080" alt="main figure workflow" src="https://github.com/user-attachments/assets/dff74b47-f926-4b4b-a58f-187833df2534" />
 
+  <img width="1920" height="1080" alt="main figure workflow" src="https://github.com/user-attachments/assets/3f034900-53d0-4f70-a8e1-bb4f988cc47d" />
+  
 ---
 
 ## Data Availability
