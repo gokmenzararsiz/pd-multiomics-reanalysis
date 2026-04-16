@@ -27,15 +27,19 @@ Raw data are not included in this repository. Please download them directly from
 
 ## Methods Summary
 
-* RNA-seq analysis: DESeq2
-* Proteomics analysis: Perseus + limma
-* Functional enrichment: clusterProfiler, GSEApy
+*bRNA-seq analysis: DESeq2
+* Proteomics analysis: Perseus, limma
+* Functional enrichment analysis: clusterProfiler, GSEApy
+* Cross-omics integration: overlap and pathway-level comparison
+
+---
+## Workflow
   <img width="1920" height="1080" alt="workflow" src="https://github.com/user-attachments/assets/890c5492-847e-4a9d-9ba3-6374c7482e66" />
 
 
 ---
 
-## Software
+## Software Requirements
 
 * R (≥4.2)
 * Python (≥3.8)
