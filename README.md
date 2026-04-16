@@ -41,11 +41,22 @@ Raw data are not included in this repository. Please download them directly from
 
 ## Software Requirements
 
-* R (≥4.2)
-* Python (≥3.8)
-DESeq2, limma, clusterProfiler, GSEApy
+* R ≥ 4.2
+DESeq2
+limma
+clusterProfiler
+* Python ≥ 3.8
+GSEApy
 
 ---
+
+## Repository Structure
+
+/RNAseq/ – transcriptomics preprocessing and DE analysis
+/Proteomics/ – proteomics processing and differential analysis
+/Integration/ – cross-omics overlap and pathway integration
+/Figures/ – generated plots and final figures
+/Scripts/ – reusable analysis scripts
 
 ## Notes
 
