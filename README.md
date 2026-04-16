@@ -34,19 +34,18 @@ Raw data are not included in this repository. Please download them directly from
 
 ---
 ## Workflow
-  <img width="1920" height="1080" alt="workflow" src="https://github.com/user-attachments/assets/890c5492-847e-4a9d-9ba3-6374c7482e66" />
-
+  <img width="1920" height="1080" alt="main figure workflow" src="https://github.com/user-attachments/assets/dff74b47-f926-4b4b-a58f-187833df2534" />
 
 ---
 
 ## Software Requirements
 
 * R ≥ 4.2
-DESeq2
-limma
-clusterProfiler
+ - DESeq2
+ - limma
+ - clusterProfiler
 * Python ≥ 3.8
-GSEApy
+ - GSEApy
 
 ---
 
