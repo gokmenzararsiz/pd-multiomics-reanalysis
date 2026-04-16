@@ -28,7 +28,7 @@ Raw data are not included in this repository. Please download them directly from
 
 ## Methods Summary
 
-*bRNA-seq analysis: DESeq2
+* RNA-seq analysis: DESeq2
 * Proteomics analysis: Perseus, limma
 * Functional enrichment analysis: clusterProfiler, GSEApy
 * Cross-omics integration: overlap and pathway-level comparison
