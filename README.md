@@ -26,34 +26,34 @@ Raw data are not included in this repository. Please download them directly from
 ---
 
 ---
+## Repository Structure
+.
+├── data/
+│   ├── GSE169755_DESeq2_DEGenes.xlsx
+│   ├── PXD024748_LOG2_mean_intensity_matrix.csv
+│   ├── PXD024748_limma_results_PD_vs_Ctrl.csv
+│   └── PXD024748_limma_significant_proteins.csv
+│
+├── proteomics_limma_PD_vs_Control.Rmd
+├── proteomics_visualization_PD_vs_Control.ipynb
+│
+├── LICENSE
+└── README.md
+---
+
+
+---
 
 ## Methods Summary
 
 * RNA-seq analysis: DESeq2
 * Proteomics analysis: Perseus, limma
 * Functional enrichment analysis: clusterProfiler, GSEApy
-* Cross-omics integration: overlap and pathway-level comparison
+* Cross-omics integration:
+    overlap and pathway-level comparison
 
 ---
 
-## Software Requirements
-
-* R ≥ 4.2
- - DESeq2
- - limma
- - clusterProfiler
-* Python ≥ 3.8
- - GSEApy
-
----
-
-## Repository Structure
-
-/RNAseq/ – transcriptomics preprocessing and DE analysis
-/Proteomics/ – proteomics processing and differential analysis
-/Integration/ – cross-omics overlap and pathway integration
-/Figures/ – generated plots and final figures
-/Scripts/ – reusable analysis scripts
 
 ## Notes
 
@@ -65,3 +65,4 @@ Raw data are not included in this repository. Please download them directly from
 ## Citation
 
 If you use this code, please cite the corresponding article.
+| Integrated Multi-Omics Reanalysis of RNA-seq and Proteomics Data from Human Substantia Nigra Dopaminergic Neurons in Parkinson’s Disease
