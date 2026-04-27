@@ -25,36 +25,6 @@ Raw data are not included in this repository. Please download them directly from
 
 ---
 
----
-## Repository Structure
-.
-├── data/
-│   ├── GSE169755_DESeq2_DEGenes.xlsx
-│   ├── PXD024748_LOG2_mean_intensity_matrix.csv
-│   ├── PXD024748_limma_results_PD_vs_Ctrl.csv
-│   └── PXD024748_limma_significant_proteins.csv
-│
-├── proteomics_limma_PD_vs_Control.Rmd
-├── proteomics_visualization_PD_vs_Control.ipynb
-│
-├── LICENSE
-└── README.md
----
-
-
----
-
-## Methods Summary
-
-* RNA-seq analysis: DESeq2
-* Proteomics analysis: Perseus, limma
-* Functional enrichment analysis: clusterProfiler, GSEApy
-* Cross-omics integration:
-    overlap and pathway-level comparison
-
----
-
-
 ## Notes
 
 * This repository contains only the essential analysis scripts.
