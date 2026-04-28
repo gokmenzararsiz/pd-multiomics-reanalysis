@@ -26,4 +26,4 @@ Raw data are not included in this repository. Please download them directly from
 ## Citation
 
 If you use this code, please cite the corresponding article.
-| Integrated Multi-Omics Reanalysis of RNA-seq and Proteomics Data from Human Substantia Nigra Dopaminergic Neurons in Parkinson’s Disease
+* Integrated Multi-Omics Reanalysis of RNA-seq and Proteomics Data from Human Substantia Nigra Dopaminergic Neurons in Parkinson’s Disease
