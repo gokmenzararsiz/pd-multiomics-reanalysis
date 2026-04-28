@@ -23,13 +23,6 @@ Raw data are not included in this repository. Please download them directly from
 
 ---
 
-## Notes
-
-* This repository contains only the essential analysis scripts.
-* Intermediate files and large datasets are not included.
-
----
-
 ## Citation
 
 If you use this code, please cite the corresponding article.
