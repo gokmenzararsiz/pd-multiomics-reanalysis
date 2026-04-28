@@ -1,0 +1,13 @@
+ID	group
+2A_PD	PD
+2B_PD	PD
+4A_PD	PD
+4B_PD	PD
+12A_PD	PD
+12B_PD	PD
+3A_Control	Control
+3B_Control	Control
+7A_Control	Control
+7B_Control	Control
+11A_Control	Control
+11B_Control	Control
